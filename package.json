@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/zua-ux"
+    "url": "git+https://github.com/zuanet/zua-ux"
   },
   "keywords": [],
   "dependencies": {},
