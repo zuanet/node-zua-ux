@@ -1,0 +1,21 @@
+{
+  "name": "@zua/ux",
+  "version": "1.0.30",
+  "description": "Zua Wallet User Interface Framework",
+  "main": "zua-ux.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuanet/node-zua-ux"
+  },
+  "keywords": [],
+  "dependencies": {},
+  "files": [
+    "zua-ux.js",
+    "zua-ux.css",
+    "src",
+    "README.md",
+    "LICENSE",
+    "resources"
+  ]
+}
